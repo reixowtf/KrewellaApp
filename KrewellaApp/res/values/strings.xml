@@ -9,5 +9,26 @@
     <string name="nomiICognoms">Nom i cognoms</string>
     <string name="fer_foto">Fer fotografia</string>
     <string name="entrar">Entrar</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_youtube">YoutubeActivity</string>
+    <string name="title_activity_gravacio">GravacioActivity</string>
+    <string name="reproduir">Gravar</string>
+    <string name="parar">Stop</string>
+    <string name="escoltar">Escoltar</string>
+    <string name="opinio">Fes-nos arribar la teva opinió</string>
+    <string name="title_activity_fotos">Galeria de Krewella</string>
+    <string name="title_activity_image_adapter">ImageAdapter</string>
+    <string name="title_activity_foto">Krewella</string>
 
+    <string-array name="ImatgesKrewella">
+        <item>Krewella en SXSM</item>
+        <item>Fa 1 any al Ultra Miami Festival. Alucinant!</item>
+        <item>Son la ostia</item>
+        <item>Krewella en una entrevista a un canal conegut dinternet</item>
+        <item>Krewella en un concert de Get Wet!</item>
+        <item>Keep calm and enjoy it</item>
+        <item>Hohoho</item>
+        <item>Krewella al Ultra Miami Festival</item>
+        <item>Krewella no more</item>
+    </string-array>
 </resources>
