@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/foto_dimen"
+    android:paddingLeft="@dimen/foto_dimen"
+    android:paddingRight="@dimen/foto_dimen"
+    android:paddingTop="@dimen/foto_dimen"
+    tools:context=".ImatgeActivity" >
+
+    <ImageView
+        android:id="@+id/imatge_ampliada"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/text_imatge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="TextView" />
+
+</LinearLayout>
